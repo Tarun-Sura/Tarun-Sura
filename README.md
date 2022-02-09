@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TarunSura
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m Tarun Sura
+- 👀 I’m interested in Data Science and Machine learning
 - 🌱 I’m currently learning to solve data related problems
-- 👀 Text Mining and Big Data projects coming soon
+- ✨ I'm currently working on Text Mining and Big Data projects
 - 📫 You can reach me on [Linkedln](https://www.linkedin.com/in/tarun-sura-01a081164/)
 
 <!---
