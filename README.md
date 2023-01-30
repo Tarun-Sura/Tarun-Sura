@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tarun Sura
-- 👀 I’m interested in Data Science and Machine learning
-- 🌱 I’m currently learning to solve data related problems
-- ✨ I'm currently working on Text Mining and Big Data projects
+- 👀 I am a data enthusiast with a strong interest in data analytics and data science. I have experience using tools such as Tableau, R, Python, and SQL to manipulate, analyze, and visualize large datasets. 
+- ✨ I am constantly seeking to improve my skills in machine learning and statistical modeling to gain insights from data and solve complex problems. 
+- 🌱 I am looking to collaborate with like-minded individuals and contribute to projects related to data analytics and data science
 - 📫 You can reach me on [Linkedln](https://www.linkedin.com/in/tarun-sura-01a081164/)
 
 <!---
